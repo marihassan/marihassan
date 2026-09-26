@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋🏽 hi there, I’m @marihassan
+## 🌸 fun fact: my pfp is an adenium!
 
 <!--
 **marihassan/marihassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

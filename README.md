@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
--- 👋🏽 hi there, I’m @marihassan
--- 🌸 fun fact: my pfp is an adenium!--
+𓂃˖˳·˖ 👋🏽 hi there, I’m @marihassan
+˖ . ݁𝜗𝜚. ݁₊ 🌸 fun fact: my pfp is an adenium! °❀.ೃ࿔
 </p>
 
 <!--

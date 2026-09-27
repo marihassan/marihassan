@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="hello.gif" width="160" alt="cursive writing hello" />
+</p>
+
+<p align="center">
 - 👋🏽 hi there, I’m @marihassan
 - 🌸 fun fact: my pfp is an adenium!
+</p>
 
 <!--
 **marihassan/marihassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
